@@ -27,8 +27,8 @@ module:
     min: '0.101.0'
     extended: true
   imports:
-    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-core
-    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-seo
+    - path: github.com/Saydemr/wowchemy-hugo-themes/modules/wowchemy-core
+    - path: github.com/Saydemr/wowchemy-hugo-themes/modules/wowchemy-seo
   mounts:
     - source: content
       target: content

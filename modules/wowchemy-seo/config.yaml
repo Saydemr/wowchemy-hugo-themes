@@ -7,4 +7,4 @@ module:
     - source: layouts
       target: layouts
   imports:
-    - path: github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-core
+    - path: github.com/Saydemr/wowchemy-hugo-themes/modules/wowchemy-core
